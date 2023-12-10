@@ -3,7 +3,7 @@
 Console.WriteLine("Введите число от 1 до 100 000: ");
 int num = Convert.ToInt32(Console.ReadLine());
 int size = 0;
-    num;
+int temp = num;
 if (num > 0 && num < 100001)
 {
     while (temp > 0)
