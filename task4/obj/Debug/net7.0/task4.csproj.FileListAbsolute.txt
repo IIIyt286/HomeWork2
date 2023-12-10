@@ -1,0 +1,14 @@
+G:\Geek\C#\seminars\HomeWork2\task4\obj\Debug\net7.0\task4.GeneratedMSBuildEditorConfig.editorconfig
+G:\Geek\C#\seminars\HomeWork2\task4\obj\Debug\net7.0\task4.AssemblyInfoInputs.cache
+G:\Geek\C#\seminars\HomeWork2\task4\obj\Debug\net7.0\task4.AssemblyInfo.cs
+G:\Geek\C#\seminars\HomeWork2\task4\obj\Debug\net7.0\task4.csproj.CoreCompileInputs.cache
+G:\Geek\C#\seminars\HomeWork2\task4\bin\Debug\net7.0\task4.exe
+G:\Geek\C#\seminars\HomeWork2\task4\bin\Debug\net7.0\task4.deps.json
+G:\Geek\C#\seminars\HomeWork2\task4\bin\Debug\net7.0\task4.runtimeconfig.json
+G:\Geek\C#\seminars\HomeWork2\task4\bin\Debug\net7.0\task4.dll
+G:\Geek\C#\seminars\HomeWork2\task4\bin\Debug\net7.0\task4.pdb
+G:\Geek\C#\seminars\HomeWork2\task4\obj\Debug\net7.0\task4.dll
+G:\Geek\C#\seminars\HomeWork2\task4\obj\Debug\net7.0\refint\task4.dll
+G:\Geek\C#\seminars\HomeWork2\task4\obj\Debug\net7.0\task4.pdb
+G:\Geek\C#\seminars\HomeWork2\task4\obj\Debug\net7.0\task4.genruntimeconfig.cache
+G:\Geek\C#\seminars\HomeWork2\task4\obj\Debug\net7.0\ref\task4.dll
